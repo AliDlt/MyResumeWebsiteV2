@@ -1,61 +1,94 @@
-Welcome to my page!
-I'm Ali Dolatabadi, Fullstack developer
-
-# Tecks i used
-
-# Konichiwa 👋
+# Hello 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+<iframe src="https://giphy.com/embed/26tn33aiTi1jkl6H6" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6">via GIPHY</a></p>
 </div>
 
-</br>
 </br>
 </br>
 
 # About ME 💬 :
 
-### - I'm 19 years old Machine Learning & Artificial Intelligence Enthusiast from India.
-
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
-
-### - Learning :
-
-- ✨ Data Structures & Algorithms
-- ✨ Generative Adversarial Networks
-
-### - Hobbies :
-
-- ✨ Gaming Addict
-- ✨ Watching Anime
-- ✨ Reading Light Novels
-- ✨ Badminton (Neighbourhood Professional XD)
+### - I am Ali Dolatabadi, Full-stack Developer
 
 </br>
 </br>
+
+# Technologies that I know 👨‍💻 🛠:
+
 </br>
 
-# Languages & Tools 👨‍💻 🛠:
+## Languages
 
-</br>
+### Back-end
+
+<p align="center">
+<img src="https://github.com/AliDlt/ResourcesForREADME/blob/master/languages/csharp.svg" alt="c#" style="vertical-align:top margin:6px 4px">
+
+<img src="https://github.com/AliDlt/ResourcesForREADME/blob/master/languages/csharp_dotnet.svg" alt="dotnet" style="vertical-align:top margin:6px 4px">
+
+<img src="https://github.com/AliDlt/ResourcesForREADME/blob/master/languages/js.svg" alt="js" style="vertical-align:top margin:6px 4px">
+
+<img src="https://github.com/AliDlt/ResourcesForREADME/blob/master/languages/java.svg" alt="java" style="vertical-align:top margin:6px 4px">
+
+<img src="https://github.com/AliDlt/ResourcesForREADME/blob/master/languages/dart_colour.svg" alt="dart" style="vertical-align:top margin:6px 4px">
+
+<img src="https://github.com/AliDlt/ResourcesForREADME/blob/master/languages/php.svg" alt="php" style="vertical-align:top margin:6px 4px">
+
+<img src="https://github.com/AliDlt/ResourcesForREADME/blob/master/languages/python.svg" alt="python" style="vertical-align:top margin:6px 4px">
+
+</p>
+
+## Frameworks & Libraries
+
+### Web
 
 <p align="center">
 
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
+<img src="https://github.com/AliDlt/ResourcesForREADME/blob/master/frameworks/web/nodejs.svg" alt="nodejs" style="vertical-align:top margin:6px 4px">
+
+<img src="https://github.com/AliDlt/ResourcesForREADME/blob/master/frameworks/web/react.svg" alt="raectjs" style="vertical-align:top margin:6px 4px">
+
+<img src="https://github.com/AliDlt/ResourcesForREADME/blob/master/frameworks/web/bootstrap.svg" alt="bootstrap" style="vertical-align:top margin:6px 4px">
+
+<img src="https://github.com/AliDlt/ResourcesForREADME/blob/master/frameworks/web/jquery.svg" alt="jquery" style="vertical-align:top margin:6px 4px">
+
+<img src="https://github.com/AliDlt/ResourcesForREADME/blob/master/languages/html.svg" alt="html" style="vertical-align:top margin:6px 4px">
+
+<img src="https://github.com/AliDlt/ResourcesForREADME/blob/master/languages/css3.svg" alt="css" style="vertical-align:top margin:6px 4px">
+
+<img src="https://github.com/AliDlt/ResourcesForREADME/blob/master/languages/sass.svg" alt="sass" style="vertical-align:top margin:6px 4px">
+
+<img src="https://github.com/AliDlt/ResourcesForREADME/blob/master/frameworks/web/docker.svg" alt="docker" style="vertical-align:top margin:6px 4px">
+
+<img src="https://github.com/AliDlt/ResourcesForREADME/blob/master/frameworks/web/docker.svg" alt="asp" style="vertical-align:top margin:6px 4px">
+
+<img src="https://github.com/AliDlt/ResourcesForREADME/blob/master/frameworks/web/docker.svg" alt="blazor" style="vertical-align:top margin:6px 4px">
+
 </p>
-</br>
+
+### Mobile
+
+<p align="center">
+<img src="https://github.com/AliDlt/ResourcesForREADME/blob/master/frameworks/mobile/flutter.svg" alt="flutter" style="vertical-align:top margin:6px 4px">
+
+<img src="https://github.com/AliDlt/ResourcesForREADME/blob/master/frameworks/mobile/flutter.svg" alt=".net maui" style="vertical-align:top margin:6px 4px">
+
+<img src="https://github.com/AliDlt/ResourcesForREADME/blob/master/frameworks/mobile/xamarin_forms.svg" alt="xamarinforms" style="vertical-align:top margin:6px 4px">
+
+<img src="https://github.com/AliDlt/ResourcesForREADME/blob/master/frameworks/mobile/xamarin_android.svg" alt="xamarinandroid" style="vertical-align:top margin:6px 4px">
+</p>
+
+### Windows
+
+<p align="center">
+<img src="https://github.com/AliDlt/ResourcesForREADME/blob/master/frameworks/windows/wpf.svg" alt="wpf" style="vertical-align:top margin:6px 4px">
+
+<img src="https://github.com/AliDlt/ResourcesForREADME/blob/master/frameworks/windows/uwp.svg" alt="uwp" style="vertical-align:top margin:6px 4px">
+
+<img src="https://github.com/AliDlt/ResourcesForREADME/blob/master/frameworks/mobile/xamarin_forms.svg" alt="windowsforms" style="vertical-align:top margin:6px 4px">
+
+</p>
 </br>
 </br>
 
@@ -68,9 +101,14 @@ I'm Ali Dolatabadi, Fullstack developer
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
-<a href="mailto:ashutosh.saxena.2001@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+<a href="mailto:alidlt4@gmail.com">
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/AliDlt/ResourcesForREADME/blob/master/socials/gmail.svg" />
 </a>
+
+<a href="mailto:alidlt1@yahoo.com">
+ <img align="left" alt="Email" width="130" hight="100" src="https://github.com/AliDlt/ResourcesForREADME/blob/master/socials/email_me.svg" />
+</a>
+
 <a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
 </br>
@@ -84,7 +122,6 @@ If you want to reach out to me about anything, be it some doubt or just to hango
   <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
 </a>
  </p>
-
 
 </br>
 </br>
@@ -131,24 +168,22 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <br/>
 
 <!-- Social badges section -->
-<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">
   <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
-  <a href="https://www.youtube.com/c/DevProTips">
-    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
+
   <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DenverCoder1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+    <img alt="instagram" title="Instagram Man" src="https://github.com/AliDlt/ResourcesForREADME/blob/master/socials/instagram.svg"/></a>
+
   <a href="https://github.com/DenverCoder1?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="linkedin" title="Linkedin" src="https://github.com/AliDlt/ResourcesForREADME/blob/master/socials/linkedin.svg"/></a>
+
+<a href="https://github.com/AliDlt">
+    <img alt="linkedin" title="Linkedin" src="https://github.com/AliDlt/ResourcesForREADME/blob/master/socials/linkedin.svg"/></a>
+
   <a href="https://github.com/DenverCoder1/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
+
 </p>
 
 <br/>
-
-<p align="center">
-  <a href="https://stars.github.com/profiles/denvercoder1/">
-    <img src="https://i.imgur.com/q1PV6pF.png" alt="GitHub Star 2023"/></a>
-</p>
